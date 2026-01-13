@@ -15,7 +15,7 @@ A simple and responsive weather web app built with **HTML**, **CSS**, and **Java
 ---
 
 ## 🚀 Demo
-![Preview Image](images.preview.png)
+![Preview Image](images/preview.png)
 
 ---
 
